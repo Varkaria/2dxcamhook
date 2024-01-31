@@ -21,7 +21,7 @@ Hook library for replacing in-game camera textures with [Spout2](https://github.
 - Set the name to "Camera A" and press the "Change Spout Filter Name" button
 - Repeat the same steps for the second camera, using name "Camera B" instead
 
-**Note:** The game expects the camera texture to be 1280x720 in size. If you have set OBS to output in a higher resolution, you should also add a "Scaling/Aspect Ratio" filter above the "Spout Filter" and set the resolution to 1280x720. It will appear incorrectly in the camera check menu, but will be normal when in-game.
+**Note:** The game expects the camera texture to be 1280x720 in size. If you have set OBS to output in a higher resolution, you should also add a "Scaling/Aspect Ratio" filter above the "Spout Filter" and set the resolution to 1280x720. It will appear incorrectly in the camera check menu, but will be normal when in-game. 
 
 ### Installation
 
